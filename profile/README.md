@@ -1,17 +1,56 @@
 Hi there 👋
 
-Welcome to the FlowInquiry organization on GitHub! We are dedicated to building powerful, open-source tools for workflow management and team collaboration. Whether you're a developer, team leader, or organization, our goal is to empower you with solutions that streamline workflows, increase transparency, and enhance productivity.
+Welcome to FlowInquiry! Our open-source service helps organizations and teams manage internal and external requests, prioritize tasks, and ensure resolutions within SLA timelines. Streamline your workflows and achieve more with FlowInquiry.
+
+🖼️ Screenshots
+
+<table>
+  <tr>
+    <td style="padding: 10px; text-align: center;">
+      <a href="team_dashboard.png">
+        <img src="team_dashboard_thumbnail.png" alt="Team Dashboard">
+      </a>
+    </td>
+    <td style="padding: 10px; text-align: center;">
+      <a href="team_members.png">
+        <img src="team_members_thumbnail.png" alt="Team Members">
+      </a>
+    </td>
+    <td style="padding: 10px; text-align: center;">
+      <a href="ticket_view.png">
+        <img src="ticket_view_thumbnail.png" alt="Ticket View">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td style="padding: 10px; text-align: center;">
+      <a href="user_view.png">
+        <img src="user_view_thumbnail.png" alt="User View">
+      </a>
+    </td>
+    <td style="padding: 10px; text-align: center;">
+      <a href="workflow_customization.png">
+        <img src="workflow_customization_thumbnail.png" alt="Workflow Customization">
+      </a>
+    </td>
+    <td style="padding: 10px; text-align: center;">
+      <a href="workspace_dashboard.png">
+        <img src="workspace_dashboard_thumbnail.png" alt="Workspace Dashboard">
+      </a>
+    </td>
+  </tr>
+</table>
 
 🙋‍♀️ What is FlowInquiry?
 
 FlowInquiry is a centralized hub for managing requests, tasks, and workflows across teams. From on-call support systems to case management in CRM applications, FlowInquiry is flexible, customizable, and built with modern open-source technologies like:
 
 * Spring Framework
-* Next.js
 * Hibernate
 * PostgreSQL
+* Next.js
 * TailwindCSS
-* ShadCN
+* ShadCn
 And more!
 
 🌈 How to Contribute?
@@ -46,5 +85,3 @@ We thrive on open-source technologies, and we’re grateful for the incredible c
 FlowInquiry is just the beginning. With your help, we can continue to empower teams worldwide. Together, we can overcome collaboration challenges and create a better way to work.
 
 Let’s build something amazing, together. 🌟
-
-
