@@ -2,7 +2,7 @@ Hi there 👋
 
 Welcome to FlowInquiry! Our open-source service empowers organizations and teams to manage internal and external requests, prioritize tasks intelligently, and ensure resolutions within SLA timelines. As an alternative to popular ticket management solutions like Jira, Zendesk, Freshdesk, and ServiceNow, FlowInquiry streamlines workflows with AI-powered insights, optimizes task prioritization, and enhances efficiency for seamless request management.
 
-![FlowInquiry](assets/flowinquiry_slide.gif)
+![FlowInquiry](flowinquiry_slide.gif)
 
 🙋‍♀️ What is FlowInquiry?
 
