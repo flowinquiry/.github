@@ -1,6 +1,8 @@
 Hi there 👋
 
-Welcome to FlowInquiry! Our open-source service enables teams to manage internal and external requests, track tasks, and collaborate efficiently. With support for multiple projects and intelligent task prioritization, FlowInquiry ensures seamless workflow automation and SLA compliance. As an alternative to Jira, Zendesk, Freshdesk, and ServiceNow, it streamlines case management, project tracking, and team collaboration with AI-powered insights.
+Welcome to FlowInquiry – the open-source solution designed to streamline internal and external request management, task tracking, and team collaboration. FlowInquiry supports multiple projects with smart task prioritization, workflow automation, and SLA compliance. As a powerful alternative to Jira, Zendesk, Freshdesk, it simplifies case management and project tracking with AI-powered insights.
+
+Teams can organize work using a Kanban board, manage epics and iterations, and follow Agile practices with ease — making FlowInquiry the perfect fit for modern, agile-driven organizations.
 
 ![FlowInquiry](flowinquiry_slide.gif)
 
@@ -18,10 +20,14 @@ And more!
 
 🌈 How to Contribute?
 
-We believe in the power of open-source collaboration. Here's how you can get involved:
+We welcome contributions of all kinds — not just code!
 
-* Report Bugs: Found a bug? Let us know by creating an issue.
-* Propose Features: Have a great idea? Open a feature request to share your thoughts.
-* Improve Code: Submit pull requests to improve features, fix bugs, or optimize performance.
-* Join Discussions: Engage with the community by participating in GitHub Discussions.
+You can:
+- Star the project ⭐
+- Share it on social media 📢
+- Create a tutorial or video 🎥
+- Report bugs or suggest improvements 🐛
+- Submit a pull request 🛠️
+
+Read the full guide: [How to Contribute to FlowInquiry](https://docs.flowinquiry.io/how_to_contributes/your_action_is_meaningful_to_us)
   
