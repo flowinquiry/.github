@@ -4,7 +4,7 @@ Welcome to FlowInquiry – the open-source solution designed to streamline inter
 
 Teams can organize work using a Kanban board, manage epics and iterations, and follow Agile practices with ease — making FlowInquiry the perfect fit for modern, agile-driven organizations.
 
-![FlowInquiry](flowinquiry_slide.gif)
+![FlowInquiry](flowinquiry_slide.webp)
 
 🙋‍♀️ What is FlowInquiry?
 
